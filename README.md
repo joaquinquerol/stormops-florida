@@ -1,7 +1,7 @@
 # StormOps Florida (2016–2025)
 
 This project:
-- Forecasts monthly Florida storm event counts using 3 forecasting models
+- Forecasts monthly Florida storm event counts using 3 forecasting models - Holt-Winters, SARIMA & Seasonal Naive
 - Classifies high-damage events using Naive Bayes
 
 ## Dataset
